@@ -1,0 +1,46 @@
+a:active{
+    color:green;
+}
+a:visited{
+    color:rgb(161, 18, 18);
+}
+a:hover{
+    color :rgb(112, 112, 5);
+}
+a{
+    
+    border-style: solid;
+    margin: 2px 2px 2px 2px;
+    padding: 2px 2px 2px 2px ;
+}
+label {
+    color:blueviolet;
+    
+}
+input{
+    color: green;
+}
+textarea{
+    color: black;
+}
+.cnt{
+    color:brown;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style:italic;
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    color:rgb(74, 6, 137);
+}
+img{
+    border-width: 2px;
+ margin: 3px 3px 3px 3px;
+ padding: 3px 3px 3px 3px;
+
+}
+#star{
+    color: rgb(79, 24, 24);
+}
